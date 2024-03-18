@@ -1,0 +1,101 @@
+h1{
+    text-align: center;
+    font-size: larges;
+    font-style: italic;
+
+}
+
+h2{
+    font-style: italic;
+}
+
+h3{
+    font-style: italic;
+}
+
+body{
+    background-color: lightsteelblue;
+}
+
+
+ul{
+    text-decoration: none;
+    list-style-type: none;
+    padding:0; /* Remove padding*/
+    margin: 0; /* Remove margin*/
+    padding-inline: 50px;
+    text-align: center;
+    margin-right: 150px;
+   
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    font-size: larger;
+    font-style: italic;
+    background-color: aliceblue;
+    
+}
+
+li{
+    display: inline;
+    margin-inline-start: 5%;
+
+}
+
+img{
+    margin-top: 10%;
+    margin-left: 5%;
+    margin-right: 5%;
+    align-items: center;
+}
+
+div{
+    font-size: larger;
+    font-style: italic;
+}
+
+footer{
+    font-size: larger;
+    font-style: italic;
+    background-color:whitesmoke;
+    margin-bottom: 0,150%;
+    
+    
+}
+
+.Home{
+    margin-top: 3%;
+}
+
+.index{
+    margin-top: 2%;
+}
+
+.nav{
+    margin-top: 3%;
+}
+
+.oss{
+    margin-top: 2%;
+}
+
+form{
+    text-align: center;
+    display: inline-block;
+    text-align: center;
+    margin: 5px 0 22px 0;
+    padding: 15px;
+    width: 100%;
+}
+
+.person{
+    font-size: larger;
+    font-style: italic;
+}
+
+.om oss{
+    font-size: larger;
+    font-style: italic;
+}
